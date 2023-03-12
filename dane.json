@@ -1,0 +1,2602 @@
+[
+  {
+    "model": "klient.klient",
+    "pk": 0,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 2441865087,
+      "adres": "ul. Jedno\u015bci\n",
+      "miejscowosc": "Szymony\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 680926537,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 1,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 4956799586,
+      "adres": "ul. Jana Spytkowskiego\n",
+      "miejscowosc": "Olkusz\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 674082726,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 2,
+    "fields": {
+      "nazwa": "Opra Zak\u0142ad Optyczny\n",
+      "nip": 5120300741,
+      "adres": "ul. D\u0142uga\n",
+      "miejscowosc": "Piwoda\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 669775172,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 3,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 2467521061,
+      "adres": "ul. Emilii Plater\n",
+      "miejscowosc": "Cel\ufffdw\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 625407846,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 4,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 5865805647,
+      "adres": "ul. Ba\u017cant\u00f3w\n",
+      "miejscowosc": "Ol\ufffddzkie\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 744475282,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 5,
+    "fields": {
+      "nazwa": "Opta Sun Optyk\n",
+      "nip": 1099067923,
+      "adres": "ul. J\u00f3zefa Che\u0142mo\u0144skiego\n",
+      "miejscowosc": "Bobowo\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 721917563,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 6,
+    "fields": {
+      "nazwa": "Opticon Zak\u0142ad Optyczny \n",
+      "nip": 4266350820,
+      "adres": "ul. Modrzejowska\n",
+      "miejscowosc": "Piotraszewo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 502838333,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 7,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6116939137,
+      "adres": "ul. Andrzeja Stoksika\n",
+      "miejscowosc": "Nieprowice\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 740449132,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 8,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 9862010952,
+      "adres": "ul. Floria\u0144ska\n",
+      "miejscowosc": "Kowanowo\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 782807040,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 9,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 6453719222,
+      "adres": "ul. Powsta\u0144c\u00f3w\n",
+      "miejscowosc": "Ro\ufffdn\ufffdwka\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 703332982,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 10,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 6050558132,
+      "adres": "ul. Ludwika Mieros\u0142awskiego\n",
+      "miejscowosc": "Rucewo\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 501627276,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 11,
+    "fields": {
+      "nazwa": "Duo Optyk Salon Optyczny\n",
+      "nip": 8577482698,
+      "adres": "ul. Marsza\u0142ka Edwarda Rydza-\u015amig\u0142ego\n",
+      "miejscowosc": "Rozgard\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 799776663,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 12,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6790292262,
+      "adres": "ul. Kombajnist\u00f3w\n",
+      "miejscowosc": "Celmerostwo\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 749637896,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 13,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 7904359278,
+      "adres": "ul. M\u0142y\u0144ska\n",
+      "miejscowosc": "P\ufffdkowo\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 778498147,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 14,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 1247031070,
+      "adres": "ul. Ko\u017ala\n",
+      "miejscowosc": "Podlesie\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 538573825,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 15,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 6539222659,
+      "adres": "ul. Przyjaci\u00f3\u0142 \u017bo\u0142nierza\n",
+      "miejscowosc": "Kandlewo\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 512232072,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 16,
+    "fields": {
+      "nazwa": "Duo Optyk Salon Optyczny\n",
+      "nip": 7952669890,
+      "adres": "ul. Mazowiecka\n",
+      "miejscowosc": "\ufffdl\ufffdcin\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 624986273,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 17,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 3313112817,
+      "adres": "ul. Kamienna\n",
+      "miejscowosc": "Pilitowo\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 610258320,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 18,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 2413786254,
+      "adres": "ul. Kujawska\n",
+      "miejscowosc": "Rogo\ufffdno\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 791068379,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 19,
+    "fields": {
+      "nazwa": "Biela\u0144ski Salon Optyczny\n",
+      "nip": 1400682304,
+      "adres": "ul. K\u0119pa\n",
+      "miejscowosc": "Podd\ufffdbice\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 693243801,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 20,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 9830584588,
+      "adres": "ul. Przyjaci\u00f3\u0142 \u017bo\u0142nierza\n",
+      "miejscowosc": "Szonowo\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 534282688,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 21,
+    "fields": {
+      "nazwa": "CDN Studio Optyki Okularowej\n",
+      "nip": 5709148307,
+      "adres": "ul. Kmieca\n",
+      "miejscowosc": "Pierzchne\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 737218680,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 22,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 3332957834,
+      "adres": "ul. Kamienna\n",
+      "miejscowosc": "Charsznica\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 735462513,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 23,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 1450223824,
+      "adres": "ul. Letniskowa\n",
+      "miejscowosc": "Biszcza\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 665634174,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 24,
+    "fields": {
+      "nazwa": "Opta Sun Optyk\n",
+      "nip": 6723931495,
+      "adres": "ul. Plac Waldemara Zillingera\n",
+      "miejscowosc": "Patr\ufffdwek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 747448420,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 25,
+    "fields": {
+      "nazwa": "Opta Sun Optyk\n",
+      "nip": 2116745609,
+      "adres": "ul. Romana Dmowskiego\n",
+      "miejscowosc": "Kozierogi\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 662718123,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 26,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 1249405916,
+      "adres": "ul. Ptasia\n",
+      "miejscowosc": "Onufryjewo\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 776676765,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 27,
+    "fields": {
+      "nazwa": "Belwederska Pracownia Optyczna\n",
+      "nip": 2112215301,
+      "adres": "ul. Janusza Kusoci\u0144skiego\n",
+      "miejscowosc": "Kanna\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 602156405,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 28,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 1979593239,
+      "adres": "ul. G\u0142\u00f3wna\n",
+      "miejscowosc": "Chlewisk\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 508028788,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 29,
+    "fields": {
+      "nazwa": "Lex Yeux Zak\u0142ad Optyczny\n",
+      "nip": 2669251478,
+      "adres": "ul. Nieca\u0142a\n",
+      "miejscowosc": "Okle\ufffdna\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 642815078,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 30,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 1826690992,
+      "adres": "ul. Anki Kowalskiej\n",
+      "miejscowosc": "Butryny\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 582113185,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 31,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 4535088702,
+      "adres": "ul. gen. Leopolda Okulickiego\n",
+      "miejscowosc": "Chocieb\ufffdrz\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 527333977,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 32,
+    "fields": {
+      "nazwa": "Forbest\n",
+      "nip": 2289342603,
+      "adres": "ul. Dziewicza\n",
+      "miejscowosc": "Nierybie\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 612009987,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 33,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 6245733162,
+      "adres": "ul. Jab\u0142oniowa\n",
+      "miejscowosc": "Binino\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 716090174,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 34,
+    "fields": {
+      "nazwa": "Lex Yeux Zak\u0142ad Optyczny\n",
+      "nip": 9048849863,
+      "adres": "ul. Jana Matejki\n",
+      "miejscowosc": "Boche\ufffd\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 644041701,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 35,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 3202699524,
+      "adres": "ul. Adama Asnyka\n",
+      "miejscowosc": "\ufffdwierk\ufffdwki\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 535723749,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 36,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 3996351233,
+      "adres": "ul. Antoniego Golisa\n",
+      "miejscowosc": "Brzostek\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 675499614,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 37,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 4463098467,
+      "adres": "ul. Promienna\n",
+      "miejscowosc": "Ploski\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 783444219,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 38,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 4798381305,
+      "adres": "ul. J\u00f3zefowska\n",
+      "miejscowosc": "Okuniowiec\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 654360125,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 39,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 8867200064,
+      "adres": "ul. gen. Mariusza Zaruskiego\n",
+      "miejscowosc": "Bieliki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 779797412,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 40,
+    "fields": {
+      "nazwa": "Krajowa Rzemie\u015blnicza Izba Optyczna\n",
+      "nip": 2385743233,
+      "adres": "ul. Niezapominajek\n",
+      "miejscowosc": "Reklinek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 599026853,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 41,
+    "fields": {
+      "nazwa": "Focus\n",
+      "nip": 7871578232,
+      "adres": "ul. Antoniego So\u0142tysika\n",
+      "miejscowosc": "Rakszawa\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 763668816,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 42,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 4836274239,
+      "adres": "ul. Kacze\u0144c\u00f3w\n",
+      "miejscowosc": "Bole\ufffd\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 599746868,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 43,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 7389495486,
+      "adres": "ul. Chabr\u00f3w\n",
+      "miejscowosc": "Kad\ufffdubiec\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 779527959,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 44,
+    "fields": {
+      "nazwa": "Fleks Zak\u0142ad Us\u0142ug Optycznych\n",
+      "nip": 8282097601,
+      "adres": "ul. KWK Kazimierz-Juliusz\n",
+      "miejscowosc": "Bombalice\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 718814997,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 45,
+    "fields": {
+      "nazwa": "Fleks Zak\u0142ad Us\u0142ug Optycznych\n",
+      "nip": 1591224250,
+      "adres": "ul. Obwodowa\n",
+      "miejscowosc": "Borzyk\ufffdwka\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 770382160,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 46,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 3173327565,
+      "adres": "ul. Jerzyk\u00f3w\n",
+      "miejscowosc": "Buczki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 532385395,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 47,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 3391519231,
+      "adres": "ul. Konstytucji\n",
+      "miejscowosc": "Niesu\ufffdowice\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 556981531,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 48,
+    "fields": {
+      "nazwa": "Keips Optik Zak\u0142ad Optyczny\n",
+      "nip": 8514760260,
+      "adres": "ul. Pozna\u0144ska\n",
+      "miejscowosc": "Bielewicze\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 556448159,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 49,
+    "fields": {
+      "nazwa": "CDN Studio Optyki Okularowej\n",
+      "nip": 2214162089,
+      "adres": "ul. Konstantego Ildefonsa Ga\u0142czy\u0144skiego\n",
+      "miejscowosc": "Bolim\ufffdw\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 769593795,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 50,
+    "fields": {
+      "nazwa": "Forbest\n",
+      "nip": 8416899693,
+      "adres": "ul. gen. Zygmunta Waltera-Janke\n",
+      "miejscowosc": "Bogatynia\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 725190292,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 51,
+    "fields": {
+      "nazwa": "Aqua Lens\n",
+      "nip": 8842504914,
+      "adres": "ul. Leona Wasilewskiego\n",
+      "miejscowosc": "Pionki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 535148504,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 52,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 5255890907,
+      "adres": "ul. Radomska\n",
+      "miejscowosc": "Bydlin\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 735269937,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 53,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 2546389150,
+      "adres": "ul. J\u00f3zefa Mehoffera\n",
+      "miejscowosc": "Oleszka\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 784406446,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 54,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 1217892608,
+      "adres": "ul. Gustawa Morcinka\n",
+      "miejscowosc": "B\ufffdociszewo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 520341751,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 55,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 5955325420,
+      "adres": "ul. Miko\u0142aja Kopernika\n",
+      "miejscowosc": "Budziska\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 507940587,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 56,
+    "fields": {
+      "nazwa": "Fleks Zak\u0142ad Us\u0142ug Optycznych\n",
+      "nip": 1105625302,
+      "adres": "ul. Pole\u015bna\n",
+      "miejscowosc": "Obryte\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 533192525,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 57,
+    "fields": {
+      "nazwa": "Lider Optyk\n",
+      "nip": 7889953701,
+      "adres": "ul. Leopolda Infelda\n",
+      "miejscowosc": "Bieniewo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 677246984,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 58,
+    "fields": {
+      "nazwa": "Grabik Adam Zak\u0142ad Optyczny\n",
+      "nip": 3924375162,
+      "adres": "ul. Kuku\u0142ek\n",
+      "miejscowosc": "Bucze\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 658024043,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 59,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 3118909026,
+      "adres": "ul. Jamesa Watta\n",
+      "miejscowosc": "Nieznanowice\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 750141480,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 60,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 3720411118,
+      "adres": "ul. Dojazdowa\n",
+      "miejscowosc": "Kamionki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 603921782,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 61,
+    "fields": {
+      "nazwa": "Okulus Zak\u0142ad Optyczny\n",
+      "nip": 1196741662,
+      "adres": "ul. Jastrz\u0119bia\n",
+      "miejscowosc": "Buk\ufffdwka\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 621801815,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 62,
+    "fields": {
+      "nazwa": "Angelika Optyk\n",
+      "nip": 7649985883,
+      "adres": "ul. Czerwonego Krzy\u017ca\n",
+      "miejscowosc": "Jonkowo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 536692627,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 63,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6250260679,
+      "adres": "ul. ks. Jerzego Popie\u0142uszki\n",
+      "miejscowosc": "Noski\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 542901064,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 64,
+    "fields": {
+      "nazwa": "MM Optyk\n",
+      "nip": 4636821372,
+      "adres": "ul. Aleksandra Marudy\n",
+      "miejscowosc": "Niszczyce\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 730840919,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 65,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 9628405077,
+      "adres": "pl. Papie\u017ca Jana Paw\u0142a II\n",
+      "miejscowosc": "P\ufffdkowice\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 548281661,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 66,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 6403152980,
+      "adres": "ul. Niewielka\n",
+      "miejscowosc": "Bogdanki\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 546467451,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 67,
+    "fields": {
+      "nazwa": "Duo Optyk Salon Optyczny\n",
+      "nip": 5838596810,
+      "adres": "ul. Por\u0119bska\n",
+      "miejscowosc": "P\ufffdczewo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 624272141,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 68,
+    "fields": {
+      "nazwa": "Forbest\n",
+      "nip": 1180904850,
+      "adres": "ul. Na Mazurkach\n",
+      "miejscowosc": "\ufffdmieche\ufffd\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 767336023,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 69,
+    "fields": {
+      "nazwa": "Grabik Adam Zak\u0142ad Optyczny\n",
+      "nip": 3524799648,
+      "adres": "ul. Majowa\n",
+      "miejscowosc": "Nowojewo\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 629566580,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 70,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 5149062461,
+      "adres": "ul. Marsza\u0142ka Edwarda Rydza-\u015amig\u0142ego\n",
+      "miejscowosc": "Rogo\ufffdewo\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 579622914,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 71,
+    "fields": {
+      "nazwa": "Lider Optyk\n",
+      "nip": 8054506637,
+      "adres": "ul. Boles\u0142awa Krzywoustego\n",
+      "miejscowosc": "Bliskowice\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 505285522,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 72,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 4656303739,
+      "adres": "ul. Jana Matejki\n",
+      "miejscowosc": "B\ufffdotnowola\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 591979880,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 73,
+    "fields": {
+      "nazwa": "Oko Vita\n",
+      "nip": 2697378136,
+      "adres": "ul. P\u00f3\u0142nocna\n",
+      "miejscowosc": "Kot\ufffdwek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 549066894,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 74,
+    "fields": {
+      "nazwa": "Opra Zak\u0142ad Optyczny\n",
+      "nip": 8093289273,
+      "adres": "ul. Przyja\u017ani\n",
+      "miejscowosc": "Boglewice\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 760946632,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 75,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 5216211063,
+      "adres": "ul. Kanark\u00f3w\n",
+      "miejscowosc": "\ufffdliwnica\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 525490146,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 76,
+    "fields": {
+      "nazwa": "Okorama\n",
+      "nip": 2032704269,
+      "adres": "ul. Aleksandra Wieczorka\n",
+      "miejscowosc": "Ko\ufffdciernica\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 572904631,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 77,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 5790778229,
+      "adres": "ul. G\u00f3rnicza\n",
+      "miejscowosc": "Reblino\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 733718354,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 78,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 1359945698,
+      "adres": "ul. Jesionowa\n",
+      "miejscowosc": "O\ufffddrzychowo\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 697453143,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 79,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 1848580685,
+      "adres": "ul. Kopalniana\n",
+      "miejscowosc": "Kotowszczany\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 778227129,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 80,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 7812769627,
+      "adres": "ul. Jana Makowskiego\n",
+      "miejscowosc": "Plesz\ufffdwka\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 593702933,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 81,
+    "fields": {
+      "nazwa": "Lider Optyk\n",
+      "nip": 8978183437,
+      "adres": "ul. Ludowa\n",
+      "miejscowosc": "Niest\ufffdpowo\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 581217633,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 82,
+    "fields": {
+      "nazwa": "Optical Vision\n",
+      "nip": 7578353720,
+      "adres": "ul. Adama Naruszewicza\n",
+      "miejscowosc": "Olbrachcice\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 720974405,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 83,
+    "fields": {
+      "nazwa": "Keips Optik Zak\u0142ad Optyczny\n",
+      "nip": 2209053815,
+      "adres": "ul. Obro\u0144c\u00f3w Poczty Gda\u0144skiej\n",
+      "miejscowosc": "Bielawa\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 735155378,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 84,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 3282422375,
+      "adres": "ul. gen. J\u00f3zefa Hallera\n",
+      "miejscowosc": "Bosut\ufffdw\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 680649952,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 85,
+    "fields": {
+      "nazwa": "Optical Vision\n",
+      "nip": 7356249994,
+      "adres": "ul. gen. W\u0142adys\u0142awa Andersa\n",
+      "miejscowosc": "Ko\ufffdlica\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 683011533,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 86,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 2311738145,
+      "adres": "ul. Romana Dmowskiego\n",
+      "miejscowosc": "Biszewo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 542592979,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 87,
+    "fields": {
+      "nazwa": "21 Oczko Zak\u0142ad Optyczny\n",
+      "nip": 6700349784,
+      "adres": "ul. Aleja Wolno\u015bci\n",
+      "miejscowosc": "B\ufffdonie\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 670664693,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 88,
+    "fields": {
+      "nazwa": "Opticon Zak\u0142ad Optyczny \n",
+      "nip": 9907998654,
+      "adres": "ul. Jana Kili\u0144skiego\n",
+      "miejscowosc": "Kalin\ufffdw\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 506415880,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 89,
+    "fields": {
+      "nazwa": "Biela\u0144ski Salon Optyczny\n",
+      "nip": 7338388777,
+      "adres": "ul. Kolonia W\u0105gr\u00f3dka\n",
+      "miejscowosc": "Partynia\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 526202944,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 90,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 2031097898,
+      "adres": "ul. Regulacyjna\n",
+      "miejscowosc": "Szymonk\ufffdw\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 698783188,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 91,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 2618603678,
+      "adres": "ul. Joachima Lelewela\n",
+      "miejscowosc": "Obarzym\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 621289162,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 92,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 4081414446,
+      "adres": "ul. Konwalii\n",
+      "miejscowosc": "Bornity\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 608802801,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 93,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 8944486043,
+      "adres": "ul. gen. J\u00f3zefa Bema\n",
+      "miejscowosc": "Brz\ufffdze\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 562588174,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 94,
+    "fields": {
+      "nazwa": "Grabik Adam Zak\u0142ad Optyczny\n",
+      "nip": 8437290936,
+      "adres": "ul. Go\u0142\u0119bia\n",
+      "miejscowosc": "Nowie\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 694784299,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 95,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 5277403687,
+      "adres": "ul. Kopalniana\n",
+      "miejscowosc": "Rog\ufffdwek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 511099838,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 96,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 8102750552,
+      "adres": "ul. Klonowa\n",
+      "miejscowosc": "Borownica\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 685199750,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 97,
+    "fields": {
+      "nazwa": "Kamo\n",
+      "nip": 4061118336,
+      "adres": "ul. Irys\u00f3w\n",
+      "miejscowosc": "P\ufffd\ufffdczki\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 755501276,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 98,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 8569030047,
+      "adres": "ul. D\u0119bli\u0144ska\n",
+      "miejscowosc": "Paszenki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 575854746,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 99,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 7371524657,
+      "adres": "ul. D\u0119bowa\n",
+      "miejscowosc": "Bzowiec\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 640253622,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 100,
+    "fields": {
+      "nazwa": "Eschenbach Optik Polen\n",
+      "nip": 3837988737,
+      "adres": "ul. Andrzeja Nogi\n",
+      "miejscowosc": "Brzost\ufffdwiec\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 556552138,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 101,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6107133266,
+      "adres": "ul. Przejazd\n",
+      "miejscowosc": "Bor\ufffdwki\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 714335066,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 102,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 7521253911,
+      "adres": "ul. Inwestycyjna\n",
+      "miejscowosc": "Kadzie\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 763079559,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 103,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 3830830183,
+      "adres": "ul. Dziewicza\n",
+      "miejscowosc": "Rogaszyn\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 704894786,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 104,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 8088475529,
+      "adres": "ul. Radomska\n",
+      "miejscowosc": "Ko\ufffduch\ufffdwka\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 778774364,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 105,
+    "fields": {
+      "nazwa": "Lider Optyk\n",
+      "nip": 8610744673,
+      "adres": "ul. Klonowa\n",
+      "miejscowosc": "Kownacica\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 780433916,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 106,
+    "fields": {
+      "nazwa": "Ingrom\n",
+      "nip": 1709102255,
+      "adres": "ul. Kujawska\n",
+      "miejscowosc": "Che\ufffdminko\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 772295880,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 107,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 1727047252,
+      "adres": "ul. Konwalii\n",
+      "miejscowosc": "Budynia\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 628492405,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 108,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 4504191521,
+      "adres": "ul. Kielecka\n",
+      "miejscowosc": "Bogoniowice\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 766079973,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 109,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 4483513934,
+      "adres": "ul. G\u00f3rnicza\n",
+      "miejscowosc": "Kozia\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 752374363,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 110,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 3786029072,
+      "adres": "ul. Kolonia Cie\u015ble\n",
+      "miejscowosc": "Brzu\ufffdce\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 673376135,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 111,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 5719918023,
+      "adres": "ul. Podjazdowa\n",
+      "miejscowosc": "Koza\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 705270661,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 112,
+    "fields": {
+      "nazwa": "Focus\n",
+      "nip": 1935860592,
+      "adres": "ul. Orla\n",
+      "miejscowosc": "\ufffdwi\ufffdtki\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 667104160,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 113,
+    "fields": {
+      "nazwa": "Okorama\n",
+      "nip": 8249744988,
+      "adres": "ul. Lwowska\n",
+      "miejscowosc": "Chmielowice\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 583923396,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 114,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 3595193947,
+      "adres": "ul. Piotra Kowalskiego\n",
+      "miejscowosc": "Jatynia\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 653152815,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 115,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 6275147026,
+      "adres": "ul. Naftowa\n",
+      "miejscowosc": "Nowogardek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 683503870,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 116,
+    "fields": {
+      "nazwa": "Opra Zak\u0142ad Optyczny\n",
+      "nip": 5772424296,
+      "adres": "ul. Braterstwa Broni\n",
+      "miejscowosc": "Rakowo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 760884577,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 117,
+    "fields": {
+      "nazwa": "Janeks\n",
+      "nip": 8839501534,
+      "adres": "ul. Ignacego Mo\u015bcickiego\n",
+      "miejscowosc": "Kowanowo\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 551910183,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 118,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 5378486197,
+      "adres": "ul. Jana Potasi\u0144skiego\n",
+      "miejscowosc": "Pass\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 591303315,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 119,
+    "fields": {
+      "nazwa": "Firma Optyczna\n",
+      "nip": 3072553850,
+      "adres": "ul. gen. Zygmunta Waltera-Janke\n",
+      "miejscowosc": "Ro\ufffdcisz\ufffdw\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 669225104,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 120,
+    "fields": {
+      "nazwa": "Angelika Optyk\n",
+      "nip": 8585329948,
+      "adres": "ul. Junacka\n",
+      "miejscowosc": "Budziszki\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 654144690,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 121,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 9337287297,
+      "adres": "ul. Leona Wasilewskiego\n",
+      "miejscowosc": "P\ufffdkoszew\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 520842260,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 122,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 4971497288,
+      "adres": "ul. Jana Kochanowskiego\n",
+      "miejscowosc": "P\ufffdawniowice\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 519784226,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 123,
+    "fields": {
+      "nazwa": "Okulus Zak\u0142ad Optyczny\n",
+      "nip": 4353260896,
+      "adres": "ul. J\u00f3zefa Wybickiego\n",
+      "miejscowosc": "\ufffdcichawa\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 516512272,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 124,
+    "fields": {
+      "nazwa": "Fleks Zak\u0142ad Us\u0142ug Optycznych\n",
+      "nip": 6318259516,
+      "adres": "ul. J\u00f3zefa Che\u0142mo\u0144skiego\n",
+      "miejscowosc": "Niewodowo\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 552500676,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 125,
+    "fields": {
+      "nazwa": "Angelika Optyk\n",
+      "nip": 8808620443,
+      "adres": "ul. J\u00f3zefa Che\u0142mo\u0144skiego\n",
+      "miejscowosc": "Ro\ufffdwienica\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 595505136,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 126,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 7439400959,
+      "adres": "ul. Juliana Tuwima\n",
+      "miejscowosc": "\ufffdwiderki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 755470097,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 127,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 2002960434,
+      "adres": "ul. Marii Konopnickiej\n",
+      "miejscowosc": "Burchaty\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 644542686,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 128,
+    "fields": {
+      "nazwa": "Okorama\n",
+      "nip": 1660597966,
+      "adres": "ul. Kalinowa\n",
+      "miejscowosc": "P\ufffdecno\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 780750852,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 129,
+    "fields": {
+      "nazwa": "Ingrom\n",
+      "nip": 7313741653,
+      "adres": "ul. Pawia\n",
+      "miejscowosc": "Ka\ufffduszyn\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 558744616,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 130,
+    "fields": {
+      "nazwa": "Oko Vita\n",
+      "nip": 2835453461,
+      "adres": "ul. Ignacego \u0141ukasiewicza\n",
+      "miejscowosc": "Borz\ufffdcice\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 585558481,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 131,
+    "fields": {
+      "nazwa": "Lex Yeux Zak\u0142ad Optyczny\n",
+      "nip": 3299827554,
+      "adres": "ul. Jana Sobieskiego\n",
+      "miejscowosc": "Cetu\ufffd\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 632769387,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 132,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 7616175190,
+      "adres": "ul. Krzysztofa Kamila Baczy\u0144skiego\n",
+      "miejscowosc": "Piorunkowice\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 592682152,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 133,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 2346520598,
+      "adres": "ul. Andrzeja Frycza-Modrzewskiego\n",
+      "miejscowosc": "Budzy\ufffd\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 778162999,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 134,
+    "fields": {
+      "nazwa": "Olszewski Filip Optyk\n",
+      "nip": 8735771113,
+      "adres": "ul. Jana Kiepury\n",
+      "miejscowosc": "B\ufffd\ufffddkowo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 745351845,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 135,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6456019373,
+      "adres": "ul. Kacza\n",
+      "miejscowosc": "Nosib\ufffddy\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 755924404,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 136,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 4263777997,
+      "adres": "ul. Pi\u0119kna\n",
+      "miejscowosc": "Kalno\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 772412155,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 137,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 5601635835,
+      "adres": "ul. Powsta\u0144c\u00f3w\n",
+      "miejscowosc": "Jurcz\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 793290508,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 138,
+    "fields": {
+      "nazwa": "Kamo\n",
+      "nip": 8469946078,
+      "adres": "ul. gen. J\u00f3zefa Hallera\n",
+      "miejscowosc": "Rozterk\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 613107379,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 139,
+    "fields": {
+      "nazwa": "21 Oczko Zak\u0142ad Optyczny\n",
+      "nip": 6626004084,
+      "adres": "al. Ignacego Paderewskiego\n",
+      "miejscowosc": "Bilwinowo\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 637357113,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 140,
+    "fields": {
+      "nazwa": "MM Optyk\n",
+      "nip": 7868866674,
+      "adres": "ul. Mariana Kantora-Mirskiego\n",
+      "miejscowosc": "Ro\ufffdwienica\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 708634132,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 141,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 1417622102,
+      "adres": "ul. Limbowa\n",
+      "miejscowosc": "Pi\ufffd\ufffdmorgi\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 756419929,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 142,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 4023828884,
+      "adres": "ul. Przemys\u0142owa\n",
+      "miejscowosc": "O\ufffdpiny\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 549444422,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 143,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 7471542778,
+      "adres": "ul. Przygraniczna\n",
+      "miejscowosc": "Poda\ufffdsko\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 576727945,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 144,
+    "fields": {
+      "nazwa": "Opra Zak\u0142ad Optyczny\n",
+      "nip": 1991142839,
+      "adres": "ul. Jacka Malczewskiego\n",
+      "miejscowosc": "Chodory\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 757208538,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 145,
+    "fields": {
+      "nazwa": "Apollo Optyk Wilan\u00f3w\n",
+      "nip": 4656325316,
+      "adres": "ul. gen. Stefana Grota-Roweckiego\n",
+      "miejscowosc": "Brz\ufffdzka\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 537212123,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 146,
+    "fields": {
+      "nazwa": "Mega-Lens\n",
+      "nip": 3015636612,
+      "adres": "ul. Henryka Dietla\n",
+      "miejscowosc": "Jaworsko\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 682979890,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 147,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 1085240290,
+      "adres": "ul. \u0141u\u017cycka\n",
+      "miejscowosc": "Olszynki\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 541115718,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 148,
+    "fields": {
+      "nazwa": "Grabik Adam Zak\u0142ad Optyczny\n",
+      "nip": 8069592511,
+      "adres": "ul. Niezapominajek\n",
+      "miejscowosc": "Kowiesy\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 615953951,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 149,
+    "fields": {
+      "nazwa": "Eschenbach Optik Polen\n",
+      "nip": 9186294799,
+      "adres": "ul. G\u00f3rnicza\n",
+      "miejscowosc": "Bielin\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 761903168,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 150,
+    "fields": {
+      "nazwa": "Optic-Express Zak\u0142ad Optyczny\n",
+      "nip": 7381975101,
+      "adres": "ul. Obro\u0144c\u00f3w Westerplatte\n",
+      "miejscowosc": "Borzyszkowo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 515787427,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 151,
+    "fields": {
+      "nazwa": "Mona Salon Optyczny\n",
+      "nip": 3472692498,
+      "adres": "ul. Pastewna\n",
+      "miejscowosc": "Cekcyn\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 604220939,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 152,
+    "fields": {
+      "nazwa": "MM Optyk\n",
+      "nip": 4595801100,
+      "adres": "ul. Parkowa\n",
+      "miejscowosc": "Kot\ufffdwka\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 747605547,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 153,
+    "fields": {
+      "nazwa": "Anio\u0142ek Pracownia Optyczna\n",
+      "nip": 4902025075,
+      "adres": "ul. Franciszka Zab\u0142ockiego\n",
+      "miejscowosc": "Szyleny\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 530381774,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 154,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 8781132739,
+      "adres": "ul. Mostowa\n",
+      "miejscowosc": "Niezgoda\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 701790227,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 155,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 6714548303,
+      "adres": "ul. D\u0119bowa\n",
+      "miejscowosc": "Oci\ufffd\ufffd\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 554035382,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 156,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 8943601458,
+      "adres": "ul. Ksi\u0119dza Biskupa Adama \u015amigielskiego\n",
+      "miejscowosc": "Kanig\ufffdwek\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 631829482,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 157,
+    "fields": {
+      "nazwa": "Lider Optyk\n",
+      "nip": 6101087118,
+      "adres": "ul. Limbowa\n",
+      "miejscowosc": "B\ufffdogocice\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 582242508,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 158,
+    "fields": {
+      "nazwa": "Optical Vision\n",
+      "nip": 4927921443,
+      "adres": "ul. Koszali\u0144ska\n",
+      "miejscowosc": "Bol\ufffdw\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 757496478,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 159,
+    "fields": {
+      "nazwa": "Focus\n",
+      "nip": 9204681420,
+      "adres": "ul. Kornela Makuszy\u0144skiego\n",
+      "miejscowosc": "Brze\ufffdce\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 702678870,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 160,
+    "fields": {
+      "nazwa": "Opta Sun Optyk\n",
+      "nip": 7678819398,
+      "adres": "ul. Borowa\n",
+      "miejscowosc": "Niemil\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 595372525,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 161,
+    "fields": {
+      "nazwa": "Duo Optyk Salon Optyczny\n",
+      "nip": 8940486500,
+      "adres": "ul. Konstytucji\n",
+      "miejscowosc": "Ojs\ufffdawice\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 502527848,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 162,
+    "fields": {
+      "nazwa": "Aqua Lens\n",
+      "nip": 9459150148,
+      "adres": "ul. Hutnicza\n",
+      "miejscowosc": "Jordanki\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 769991489,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 163,
+    "fields": {
+      "nazwa": "Lynx Optique\n",
+      "nip": 2293164995,
+      "adres": "ul. Jana Dormana\n",
+      "miejscowosc": "Oblewo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 611177188,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 164,
+    "fields": {
+      "nazwa": "Janeks\n",
+      "nip": 2019106629,
+      "adres": "ul. \u0141u\u017cycka\n",
+      "miejscowosc": "Piasty\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 611407138,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 165,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 5194033599,
+      "adres": "ul. Ludowa\n",
+      "miejscowosc": "Niskowa\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 649372242,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 166,
+    "fields": {
+      "nazwa": "CDN Studio Optyki Okularowej\n",
+      "nip": 6535417353,
+      "adres": "ul. Franciszka Zab\u0142ockiego\n",
+      "miejscowosc": "Ko\ufffduszki\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 720336038,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 167,
+    "fields": {
+      "nazwa": "Keips Optik Zak\u0142ad Optyczny\n",
+      "nip": 4258497138,
+      "adres": "ul. Pi\u0119kna\n",
+      "miejscowosc": "Kanin\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 758670353,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 168,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 5170403737,
+      "adres": "ul. Ksi\u0119dza Biskupa Adama \u015amigielskiego\n",
+      "miejscowosc": "Bo\ufffdenica\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 686651690,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 169,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 9248667893,
+      "adres": "ul. J\u00f3zefa Pomian-Pomianowskiego\n",
+      "miejscowosc": "Szostaki\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 722724390,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 170,
+    "fields": {
+      "nazwa": "Oko Vita\n",
+      "nip": 8331537058,
+      "adres": "ul. Andrzeja Struga\n",
+      "miejscowosc": "Planty\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 664827319,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 171,
+    "fields": {
+      "nazwa": "21 Oczko Zak\u0142ad Optyczny\n",
+      "nip": 7247526976,
+      "adres": "ul. Ludwika Zamenhofa\n",
+      "miejscowosc": "Jele\ufffd\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 761635891,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 172,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 2549692898,
+      "adres": "ul. Jask\u00f3\u0142ek\n",
+      "miejscowosc": "Kowiesowo\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 748087124,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 173,
+    "fields": {
+      "nazwa": "Biela\u0144ski Salon Optyczny\n",
+      "nip": 3895297149,
+      "adres": "pl. Papie\u017ca Jana Paw\u0142a II\n",
+      "miejscowosc": "Ruchocinek\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 538960190,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 174,
+    "fields": {
+      "nazwa": "MM Optyk\n",
+      "nip": 4011247089,
+      "adres": "ul. Braterstwa Broni\n",
+      "miejscowosc": "P\ufffdkowiec\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 682532218,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 175,
+    "fields": {
+      "nazwa": "Fleks Zak\u0142ad Us\u0142ug Optycznych\n",
+      "nip": 5733042521,
+      "adres": "ul. Leszno\n",
+      "miejscowosc": "Piskornik\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 572883737,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 176,
+    "fields": {
+      "nazwa": "CDN Studio Optyki Okularowej\n",
+      "nip": 7518526455,
+      "adres": "ul. Emila Zegad\u0142owicza\n",
+      "miejscowosc": "B\ufffdugowo\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 659984157,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 177,
+    "fields": {
+      "nazwa": "Duo Optyk Salon Optyczny\n",
+      "nip": 6576073317,
+      "adres": "ul. Kamienna\n",
+      "miejscowosc": "Pasmugi\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 695942235,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 178,
+    "fields": {
+      "nazwa": "Habior i Syn Pracownia Optyki\n",
+      "nip": 4900911045,
+      "adres": "ul. Mi\u0119towa\n",
+      "miejscowosc": "Parw\ufffdki\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 770234347,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 179,
+    "fields": {
+      "nazwa": "Optalex Wyr\u00f3b Opraw Okularowych\n",
+      "nip": 5885739912,
+      "adres": "ul. Matki Teresy Kieroci\u0144skiej\n",
+      "miejscowosc": "Rapy\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 612624771,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 180,
+    "fields": {
+      "nazwa": "Oko Vita\n",
+      "nip": 6360175588,
+      "adres": "ul. Juliusza S\u0142owackiego\n",
+      "miejscowosc": "Brzostno\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 779609438,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 181,
+    "fields": {
+      "nazwa": "21 Oczko Zak\u0142ad Optyczny\n",
+      "nip": 2490900346,
+      "adres": "ul. Lotnik\u00f3w\n",
+      "miejscowosc": "Pludwiny\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 733387628,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 182,
+    "fields": {
+      "nazwa": "Focus\n",
+      "nip": 9112322016,
+      "adres": "ul. Brata Alberta\n",
+      "miejscowosc": "Nowostawy\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 651536422,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 183,
+    "fields": {
+      "nazwa": "Fotex Polska\n",
+      "nip": 1443394318,
+      "adres": "ul. Jaworowa\n",
+      "miejscowosc": "Jenin\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 601639281,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 184,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 2452621941,
+      "adres": "ul. Kolonia Pekin\n",
+      "miejscowosc": "Cety\ufffd\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 558881406,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 185,
+    "fields": {
+      "nazwa": "Hilary Optyka Okularowa\n",
+      "nip": 9221174919,
+      "adres": "ul. Emila Zegad\u0142owicza\n",
+      "miejscowosc": "Nowina\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 571853513,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 186,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 4397358848,
+      "adres": "ul. Radocha\n",
+      "miejscowosc": "R\ufffdewiec\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 593357148,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 187,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 7864046464,
+      "adres": "ul. Jana Kiepury\n",
+      "miejscowosc": "Buniewice\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 682544138,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 188,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 4886735958,
+      "adres": "ul. Jagodowa\n",
+      "miejscowosc": "Odm\ufffdt\n",
+      "wojewodztwo": "\u015al\u0105skie",
+      "telefon": 629890239,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 189,
+    "fields": {
+      "nazwa": "Opticon Zak\u0142ad Optyczny \n",
+      "nip": 5605185522,
+      "adres": "ul. Juliusza Kossaka\n",
+      "miejscowosc": "Perwilty\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 500525723,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 190,
+    "fields": {
+      "nazwa": "Ingrom\n",
+      "nip": 6559783138,
+      "adres": "ul. Plac Waldemara Zillingera\n",
+      "miejscowosc": "Ruciany\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 710485690,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 191,
+    "fields": {
+      "nazwa": "Krajowa Rzemie\u015blnicza Izba Optyczna\n",
+      "nip": 1390328049,
+      "adres": "ul. J\u00f3zefa Wybickiego\n",
+      "miejscowosc": "Pi\ufffdkna\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 584577826,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 192,
+    "fields": {
+      "nazwa": "Gala Optyk Zak\u0142ad Optyczny\n",
+      "nip": 2947393563,
+      "adres": "ul. Bratk\u00f3w\n",
+      "miejscowosc": "Ko\ufffdmidry\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 677732054,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 193,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 5987486995,
+      "adres": "ul. Kielecka\n",
+      "miejscowosc": "Sztynwag\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 513627346,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 194,
+    "fields": {
+      "nazwa": "Omaz Zak\u0142ad Optyczny\n",
+      "nip": 3213706755,
+      "adres": "ul. Graniczna\n",
+      "miejscowosc": "Brzu\ufffdce\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 623658284,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 195,
+    "fields": {
+      "nazwa": "Fotex Optic Salon Optyczny\n",
+      "nip": 4229169212,
+      "adres": "ul. Ciep\u0142a\n",
+      "miejscowosc": "Piszkawa\n",
+      "wojewodztwo": "Lubuskie",
+      "telefon": 715247466,
+      "grupa": 2
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 196,
+    "fields": {
+      "nazwa": "Keips Optik Zak\u0142ad Optyczny\n",
+      "nip": 4130104313,
+      "adres": "ul. Kosynier\u00f3w\n",
+      "miejscowosc": "Nogowczyce\n",
+      "wojewodztwo": "Wielkopolskie",
+      "telefon": 659690837,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 197,
+    "fields": {
+      "nazwa": "Lenti Zak\u0142ad Optyczny\n",
+      "nip": 6044874290,
+      "adres": "ul. Pszenna\n",
+      "miejscowosc": "Odrzywo\ufffdek\n",
+      "wojewodztwo": "Opolskie",
+      "telefon": 795644489,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 198,
+    "fields": {
+      "nazwa": "Essilor Polonia\n",
+      "nip": 1300223753,
+      "adres": "ul. Radosna\n",
+      "miejscowosc": "Brz\ufffdzka\n",
+      "wojewodztwo": "Ma\u0142opolskie",
+      "telefon": 549515451,
+      "grupa": 3
+    }
+  },
+  {
+    "model": "klient.klient",
+    "pk": 199,
+    "fields": {
+      "nazwa": "Okulus Zak\u0142ad Optyczny\n",
+      "nip": 7792867068,
+      "adres": "ul. Antoniego Frankiewicza\n",
+      "miejscowosc": "Szurkowo\n",
+      "wojewodztwo": "\u0141\u00f3dzkie",
+      "telefon": 548979424,
+      "grupa": 3
+    }
+  }
+]
