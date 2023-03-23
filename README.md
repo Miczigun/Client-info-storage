@@ -1,5 +1,5 @@
 # my-first-django-project
-Simple django project storage the data about clinets
+Simple django project storage the data about clients
 
 Plugins to install:\
 pip install crispy-bootstrap5\
